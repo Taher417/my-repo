@@ -1,0 +1,15 @@
+h3{ border: 5px solid;
+    margin:auto;
+    margin-top: 5px;
+    background:10px tomato;
+    text-align: center;
+    align-items: center;
+    width: 40%;
+    text-shadow: 1px 1px 1px;
+
+}
+div{
+    border:7px solid red;
+    margin-bottom: 20px;
+    box-shadow:5px 10px 10px turquoise;
+}
